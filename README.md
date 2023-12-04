@@ -22,3 +22,9 @@ This Python script allows you to convert distances from various astronomical uni
    ```plaintext
    Enter the distance value: 1
    Enter the astronomical unit ('AU', 'light-year', 'parsec'): AU
+
+## Supported Units:
+
+- **AU (Astronomical Unit):** Represents the average distance from the [Earth to the Sun](https://en.wikipedia.org/wiki/Astronomical_unit) (approximately 149.6 million km).
+- **Light-year:** The distance that [light travels in one year](https://en.wikipedia.org/wiki/Light-year) (approximately 9.461 trillion km).
+- **Parsec:** A unit of length used in [astronomy](https://en.wikipedia.org/wiki/Parsec) (approximately 30.86 trillion km).
